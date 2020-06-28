@@ -2,7 +2,7 @@
 layout: post
 title: "A Case Study on Ethics and Bias in Machine Learning"
 permalink: /2020/case-study-on-ethics-and-bias-in-machine-learning/
-description: "Can machines be racist? Sure thing. Most of the issues dealing with machines and bias are insidious - crime, credit, or recidivism prediction, to name a few - where bias is hidden and implicit. This piece is about a foundational (and thankfully lower-stakes) example of bias in machine learning, and a discussion of the ethical and social issues that come with it."
+description: "Most of the issues dealing with machines and bias are insidious - crime, credit, or recidivism prediction, to name a few - where bias is hidden and implicit. This piece is about a foundational (and thankfully lower-stakes) example of bias in machine learning, a discussion of the ethical and social issues that come with it, and things that could be done better in the future."
 date: 2020-06-21 00:00:00
 tags:
 - machine-learning
@@ -30,7 +30,7 @@ Second, this particular model tends to output traditionally white faces and feat
 
 Further demonstrations, including a fairly high-resolution photo of Muhammad Ali processed by Zain Amro ([@zainamro](https://twitter.com/zainamro/status/1274361534886469632/)), almost always resulted in an output face with exclusively white-presenting features. Does that make it racist? In this case I'm going to go with "[yes](https://twitter.com/finmckeown/status/1275047175937052672), *accidentally*" - though keep the social outrage low, I believe this is not really Malimonov's fault.
 
-Let's learn more about how "Face Depixelizer" works so we can understand what is happening, why it's happening, and figure out some things that could be done better. This piece 
+This piece is a comprehensive look at the "Face Depixelizer" debacle through the lens of a security engineer, and is a broad engineering brief on the subject for non-ML engineers. So, let's learn more about how "Face Depixelizer" works so we can understand what is happening, why it's happening, and figure out some things that could be done better - both here and in the machine learning community at large.
 
 ## Technical Brief
 
