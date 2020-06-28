@@ -81,7 +81,7 @@ In a discussion about "Face Depixelizer" and bias in ML, [Yann LeCun](http://yan
 
 Our focus will rest squarely on #1 and #3 for much of this discussion - while the others are certainly dangerous areas for bias to emerge, the pixel-to-pixel comparison nature of PULSE mostly eliminates bias from #2 and #4 (ex. there are no features or functions, so bias would be minimal in this case), and there is no application to "Face Depixelizer" so #5 is right out.
 
-###### Architecture Evaluation
+##### Architecture Evaluation
 
 The first thing to weed out is if this is an issue with "Face Depixelizer" or something further down the dependency chain? "Face Depixelizer" does diverge from PULSE's methodology in one key place: a default seed of `100` is set, as opposed to the random initialization that the PULSE team used for their experiments. By starting from a consistent location, it allows people to generate the same faces, so people in Twitter threads will generate the same image and not wonder why their output image is different from other peoples'. However, if that starting point is white-presenting, this would also create white-biased results - instead of starting the search for a believable face from a "random" (ergo, fair) starting location, perhaps the seed `100` generates a white-presenting face which influences the possible set of outcomes. To quickly debunk this as the *main* issue, I ran a number of tests with random seeds [100 - 100,000,000,000] using a 16x16 pixelated portrait of an Asian woman and a universally white- and female-presenting face was generated every time.
 
