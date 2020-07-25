@@ -165,6 +165,12 @@ hr {
   @extend .link;
 }
 
+.post sup {
+  a {
+    border-bottom: 0px;
+  }
+}
+
 .post {
   @extend .clearfix;
 }

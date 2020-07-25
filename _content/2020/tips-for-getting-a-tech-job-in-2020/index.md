@@ -11,7 +11,7 @@ tags:
 - recruiters
 ---
 
-As some of you may know, I was laid off from my position as a Product Security Engineer at [Datto](https://datto.com) in early May of this year, losing my first "real" cybersecurity job only six months in, amid one of the [worst economies ever](https://www.cnn.com/2020/04/30/politics/what-matters-april-29/index.html). While tech has been semi-immune to the COVID catastrophe due to the ability to work from home, many tech companies have put [hiring freezes](https://candor.co/hiring-freezes/) on due to reduced cash flow. Combined with the [hundreds of thousands](https://www.theatlantic.com/family/archive/2020/05/class-of-2020-graduate-jobs/611917/) of freshly-graduated candidates and layoffs seen at cash-constrained tech companies, this was shaping up to be a slog. So, my new job was getting a job, and over the next month I would:
+As some of you may know, I was laid off from my position as a Product Security Engineer at [Datto](https://datto.com) in early May of this year, losing my first "real" cybersecurity job only six months in, amid one of the [worst economies ever](https://www.cnn.com/2020/04/30/politics/what-matters-april-29/index.html). While tech has been semi-immune to the COVID catastrophe due to the ability to work from home, many tech companies have put [hiring freezes](https://candor.co/hiring-freezes/) on due to reduced cash flow. Combined with the [millions](https://www.theatlantic.com/family/archive/2020/05/class-of-2020-graduate-jobs/611917/) of freshly-graduated candidates and layoffs seen at cash-constrained tech companies, this was shaping up to be a slog. So, my new job was getting a job, and over the next month I would:
 
 - Revamp my resume, CV, blog, Twitter, and LinkedIn.
 - More than double my connections on LinkedIn.
@@ -56,7 +56,7 @@ You'll see this breakdown come up again, and here's what each (broad) category e
 - Preparation: Staying sharp on security topics with research and studying.
 - Update Assets: Prepare my LinkedIn, resume, CV, etc. Broadcast that I am seeking work.
 - Applications: Submitting applications and completing associated challenges.
-- Conversations[^2]: Networking chats and early-stage interviews which may lead to...
+- Conversations:[^2] Networking chats and early-stage interviews which may lead to...
 - Interviews: Late-stage technical interviews which could result in an offer.
 - Manage Offers: Negotiation and other conversations about offers.
 
@@ -64,17 +64,17 @@ You'll see this breakdown come up again, and here's what each (broad) category e
 
 Another complication to think about early is that most if not all of your job search is going to be online. The same goes in the reverse - in-person networking events have been mostly cancelled, so recruiters are searching nearly [100%](https://resources.workable.com/tutorial/sourcing-tools) online for new candidates. Speaking as someone who doesn't like the application process very much: the more opportunities that *find me*, the less work I have to do. The earlier you pump up your visibility, the more time you give opportunities to filter in, and therefore the better off you are.
 
-But, I also said this was going to be *practical tips only*. Truthfully, having a cool blog, GitHub, GitLab, Twitter, etc. are great things, but they won't drive visibility to recruiters unless they're quite popular. If you have any popular repos or social media clout, of course use it: write a quick message to tell your network you're seeking employment and see what that turns up! 
+But, I also said this was going to be *practical tips only*. Truthfully, having a cool blog, GitHub, GitLab, Twitter, etc. are great things, but they won't drive visibility to recruiters unless they're quite popular. If you have any popular repos or social media clout, of course use it: write a quick message to tell your network you're seeking employment, publish that alongside a normal update or your usual content, and see what that turns up!
 
-The more important areas that I saw results from were focusing on my LinkedIn and working with staffing firms. This is possibly the most polarizing section of this article, so I'm obliged to remind you that what worked for me isn't necessarily the best solution for you. Further, neither of these is strictly required, and some offers I received depended on neither of these.
+Since I had none of those, the more important areas that I saw results from were focusing on my LinkedIn and working with staffing firms. This is possibly the most polarizing section of this article, so I'm obliged to remind you that what worked for me isn't necessarily the best solution for you. Further, neither of these is strictly required, and 2/5 offers I received depended on neither of these.
 
 #### LinkedIn
 
 LinkedIn is the anchor for my professional presence. It ties me to my network and provides great ways for opportunities to find me, but if you don't want to forsake your privacy, I totally get it. If you *do* have or make a LinkedIn, make sure it is *[phenomenal](https://business.linkedin.com/en-uk/marketing-solutions/blog/posts/content-marketing/2017/17-steps-to-a-better-LinkedIn-profile-in-2017)*. Some of the key mistakes I see people looking for jobs making with their profile are:
 
-- Making their headline non-descriptive. You're "seeking employment" - in what? It's ok to tell people you're looking at the moment in your headline, but don't remove what your job *normally* is or people will gloss over you instead of clicking to look at your profile. Try "`$your_previous_title` Seeking Employment."
-- Introducing themselves in the third person. Your LinkedIn gets to be less formal than your resume. Unless you're explicitly hunting for traditional corporate workplaces, you may be better off presenting yourself in the first person with a friendly and warm tone, or closer to how you normally communicate.
 - All of their past roles are listed, but none of them have any details. Titles mean much less than the experiences you had and the value you delivered! Write 1-3 short paragraphs (or equivalent listed items, your choice) per role: all content, no fluff. Prioritize details and length for roles that you really enjoyed or are similar to things you're looking for. This helps you show up in the right searches and shows anyone who views your profile much more about your background.
+- Making their headline non-descriptive. You're "seeking employment" - in what? It's ok to tell people you're looking at the moment in your headline, but don't remove what your job *normally* is or people will gloss over you instead of clicking to look at your profile. Try "`$your_previous_title` Seeking Employment," or whatever role you're looking for.
+- Introducing themselves in the third person. Your LinkedIn gets to be less formal than your resume. Unless you're explicitly hunting for traditional corporate workplaces, you may be better off presenting yourself in the first person with a friendly and warm tone, or closer to how you normally communicate.
 
 Having done all of these correctly, you'll increase your search visibility and result quality when recruiters are seeking out new candidates. It really does help - I went from averaging seven views per week to fifteen views per week, and went from being solicited about two opportunities per month to three opportunities per week (and those opportunities were more relevant to me, too!).
 
@@ -90,7 +90,7 @@ Neither is inherently better than the other, and depending on where you are in y
 - Potential flaws or improvements on your LinkedIn, Resume, CV, etc.
 - Improving your interview skills (if they receive that feedback, which they may not).
 
-So with all the footnotes and gotchas, do I recommend working with staffing firms? Yes - I even recommend working with multiple, because they increase your reach and frequently provide expert guidance if you ask. Working with multiple also allows you to get differing opinions and cross-check what you're being advised to make sure it's accurate[^4].
+So with all the footnotes and gotchas, do I recommend working with staffing firms? Yes - I even recommend working with multiple, because they increase your reach and frequently provide expert guidance if you ask. Working with multiple also allows you to get differing opinions and cross-check what you're being advised to make sure it's accurate.[^4]
 
 ## 3. Resume
 
@@ -123,6 +123,6 @@ Having such a structured schedule ended up being a good decision for an unexpect
 ## Footnotes
 
 [^1]: I am not a career or recruiting expert, and am making no guarantees about your personal success - what worked for me may not work at all for you. Further, any companies, platforms, etc. that I recommended contributed to my personal success in my recent job hunt. I receive no compensation for their inclusion here, and I believe that personal articles giving advice to peers in tech *must* be honest and fully independent.
-[^2]: It helps to look at early stage interviews and conversations with staffing firms, people in your network, etc. as one glob. Early-stage interviews - while many are at least partially technical - are less about the technical questions themselves and should be seen more as time for the candidate and company to get to know each other. That's more similar to what you do with your network and your staffing firm, rather than the longer multi-hour setups that final interviews turn into.
-[^3]: Input from a staffing firm inherently comes from their bottom line - recommendations they give you come from the jobs they (or their coworkers) are sourcing for, because that's what they know the market is looking for at the moment. It's honest, but not perfectly objective.
+[^2]: It helps to look at early stage interviews and conversations with staffing firms, people in your network, etc. as one glob. Early-stage interviews - while many are at least partially technical - are less about the technical questions themselves and should be seen more as time for the candidate and company to get to know each other. That's more similar to what you do with your network and your staffing firm, rather than the multi-hour setups that final interviews turn into.
+[^3]: Input from a staffing firm inherently comes from their bottom line - recommendations they give you come from the jobs they (or their coworkers) are sourcing for, because that's what they know the market is looking for at the moment. It's often honest, but not perfectly objective.
 [^4]: [Trust, but verify.](https://en.wikipedia.org/wiki/Trust,_but_verify)
