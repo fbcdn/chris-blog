@@ -123,12 +123,15 @@ Tailor your resume to what you're looking for. No, don't waste your time to tail
 
 When a recruiter (or resume-scanning bot) turns you down, it's important to keep in mind that they've turned down your resume, not you. You have the ability to tune your resume for success, and you absolutely should do so.
 
+#### Buzzwords
 
-
+Love 'em. Know when & when not to use 'em.
 
 ## Applications
 
-- job boards
+- job boards are eh
+- generic CVs only
+- places with long || immediate tech challenges aren't treating you fairly as a candidate unless they are also compensating you. keep challenges short & sweet. don't be afraid to duck out. opportunity cost.
 
 There's one thing in particular that's changed in tech during COVID-ocalypse: the impact of a job's location. If you are working in tech right now, there's a good chance your company is working "remote until further notice." Any date your company had set in March as to when they expected their offices to reopen has been punted once, twice, or maybe more. Recruiters understand that people would likely not want to move during a pandemic - especially not to or from states with a higher infection rate per capita - and *every* recruiter I talked to working on a location-specific position said clearly:
 
@@ -139,6 +142,8 @@ That is a *lot* of flexibility if you don't have roots to a particular area. But
 ## Interviewing
 
 - interview prep and coursework
+- crush your technicals
+- like riding a bike - the more you do it, the easier it gets.
 
 Lastly, until I had an offer I would take, I kept searching like I expected not to get one. That lead to some awkward conversations when I ducked out of applications early in the process because there just wasn't going to be an opportunity to progress to the final round, but it was better than flunking the few finals I was betting on and having to pick up applying again.
 
