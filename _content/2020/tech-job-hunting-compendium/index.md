@@ -11,7 +11,7 @@ tags:
 - recruiters
 ---
 
-As some of you may know, I was laid off from my position as a Product Security Engineer at [Datto](https://datto.com) in early May of this year, losing my first "real" cybersecurity job only six months in, amid one of the [worst economies ever](https://www.cnn.com/2020/04/30/politics/what-matters-april-29/index.html). While tech has been semi-immune to the COVID catastrophe due to the ability to work from home, many tech companies have put [hiring freezes](https://candor.co/hiring-freezes/) on due to reduced cash flow. Combined with the [millions](https://www.theatlantic.com/family/archive/2020/05/class-of-2020-graduate-jobs/611917/) of freshly-graduated candidates and layoffs seen at cash-constrained tech companies, this was shaping up to be a slog. So, my new job was getting a job, and over the next couple months I would:
+As some of you may know, I was laid off from my position as a Product Security Engineer in early May of this year, losing my first "real" cybersecurity job only six months in, amid one of the [worst economies ever](https://www.cnn.com/2020/04/30/politics/what-matters-april-29/index.html). While tech has been semi-immune to the COVID catastrophe due to the ability to work from home, many tech companies have put [hiring freezes](https://candor.co/hiring-freezes/) on due to reduced cash flow. Combined with the [millions](https://www.theatlantic.com/family/archive/2020/05/class-of-2020-graduate-jobs/611917/) of freshly-graduated candidates and layoffs seen at cash-constrained tech companies, this was shaping up to be a slog. So, my new job was getting a job, and over the next couple months I would:
 
 - Revamp my resume, CV, blog, Twitter, and LinkedIn.
 - More than double my connections on LinkedIn.
@@ -131,7 +131,8 @@ Love 'em. Know when & when not to use 'em.
 
 - job boards are eh
 - generic CVs only
-- places with long || immediate tech challenges aren't treating you fairly as a candidate unless they are also compensating you. keep challenges short & sweet. don't be afraid to duck out. opportunity cost.
+- places with long or immediate tech challenges aren't treating you fairly as a candidate unless they are also compensating you. keep challenges short & sweet. don't be afraid to duck out. opportunity cost.
+- "what you made" == what you need to make, or ask for a range
 
 There's one thing in particular that's changed in tech during COVID-ocalypse: the impact of a job's location. If you are working in tech right now, there's a good chance your company is working "remote until further notice." Any date your company had set in March as to when they expected their offices to reopen has been punted once, twice, or maybe more. Recruiters understand that people would likely not want to move during a pandemic - especially not to or from states with a higher infection rate per capita - and *every* recruiter I talked to working on a location-specific position said clearly:
 
@@ -142,12 +143,16 @@ That is a *lot* of flexibility if you don't have roots to a particular area. But
 ## Interviewing
 
 - interview prep and coursework
+- do you know anyone who is or has been at that company? can you find ex-employees?
 - crush your technicals
 - like riding a bike - the more you do it, the easier it gets.
+- never bomb salary questions
 
 Lastly, until I had an offer I would take, I kept searching like I expected not to get one. That lead to some awkward conversations when I ducked out of applications early in the process because there just wasn't going to be an opportunity to progress to the final round, but it was better than flunking the few finals I was betting on and having to pick up applying again.
 
 ## Negotiating Offers
+
+- ask your network to help
 
 Having such a structured schedule ended up being a good decision for an unexpected reason. Unemployment benefits helped carry me through this unexpected period in my life, but those benefits were contingent on not turning down any offers to work. Once I got my first offer, I'd only have a couple weeks before I would need to report that I declined, and likely lose my unemployment benefits. Further complicating things, [some](https://www.forbes.com/sites/carolinecenizalevine/2018/05/08/unemployed-job-seekers-receive-lower-job-offers-how-to-get-a-good-job-offer-if-youre-unemployed/) companies won't offer competitive rates to people they know are unemployed for various reasons, which happened to me in late June. One company offered me ~35% below their *base pay* for engineers of the same title (as I heard from an insider I was in contact with), with a nebulous promise along the lines of "pay would be reevaluated after the country recovers from COVID."
 
